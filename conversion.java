@@ -1,3 +1,5 @@
+//program showing type casting and type conversion
+
 class conversion{
 	public static void main(String args[]){
 		byte b;

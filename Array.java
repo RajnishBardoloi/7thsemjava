@@ -1,3 +1,6 @@
+//program to find number of days for a given month
+
+
 class Array{
 	public static void main(String args[]){
 		int month_days[];
